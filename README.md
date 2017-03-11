@@ -1,6 +1,10 @@
 # Mace Design Docs
 Mace is a new Unix oriented text editor in development. This repository contains a number of images showcasing what it may look like as well as some documents explaining the visual features.
 
+![Image showcasing the Mace text editor](design-complex-layout.png)
+
+This is the most complex of the Mace design images. But there's still more features not showcased in it. Feel free to browse the other images to get a better idea of what Mace can do
+
 ## Features
 
 * New files are opened as tabs. Users can drag tabs around to tile them vertically or horizontally.
@@ -19,4 +23,3 @@ Mace is a new Unix oriented text editor in development. This repository contains
 * Add an image showing the folder view mode
 * Clean up the lines between the tab bars of tiled windows
 * Add scroll bars
-
