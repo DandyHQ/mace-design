@@ -17,3 +17,6 @@ Mace is a new Unix oriented text editor in development. This repository contains
 
 * Fix some inconsistencies between the various images
 * Add an image showing the folder view mode
+* Clean up the lines between the tab bars of tiled windows
+* Add scroll bars
+
